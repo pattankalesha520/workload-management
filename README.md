@@ -4,11 +4,11 @@
 
 ### Paper Information
 - **Author(s):** Kalesha Khan Pattan
-- **Published In:** International Journal of Leading Research Publication (IJLRP)
-- **Publication Date:** Aug 2021
-- **ISSN:** E-ISSN: 2582-8010
-- **DOI:**
-- **Impact Factor:** 9.56
+- **Published In:** International Journal of Technology and Applied Science (IJTAS)
+- **Publication Date:** May 2022
+- **ISSN:** E-ISSN: 2230-9004
+- **DOI:** https://doi.org/10.71097/IJTAS.v13.i5.1125
+- **Impact Factor:** 9.914
 
 ### Abstract
 The paper proposes an AI-driven adaptive scaling framework to overcome the limitations of reactive, rule-based autoscaling in distributed cloud systems by predicting workload fluctuations
@@ -66,9 +66,9 @@ AI-DRIVEN SCALING STRATEGIES FOR ADAPTIVE WORKLOAD MANAGEMENT IN DISTRIBUTED CLO
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \
-https://www.ijlrp.com/ \
+https://www.ijtas.com/ \
 **Author Contact** \
-**LinkedIn**: https://www.linkedin.com/**** | **Email**: pattankalesha520@gmail.com
+**LinkedIn**: www.linkedin.com/in/pattan-khan-689978177 | **Email**: pattankalesha520@gmail.com
 
 
 
